@@ -1,1 +1,1 @@
-Data-related artefacts - databricks, parquet
+Data-related artefacts - databricks, parquet and others
