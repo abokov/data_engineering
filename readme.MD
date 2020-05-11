@@ -1,1 +1,10 @@
-Data-related artefacts - databricks, parquet and others
+Data-related artefacts - databricks, parquet and other
+
+# Getting started
+1) Get deep into Parquet format :
+[Handling Large Amounts of Data with Parquet – Part 1](https://miuv.blog/2018/08/21/handling-large-amounts-of-data-with-parquet-part-1/)
+[Parquet docx on Apache](https://parquet.apache.org/documentation/latest/)
+[Structure Of Parquet File Format](https://luminousmen.com/post/big-data-file-formats)
+
+2) Install conda:
+[How to write to a Parquet file in Python](https://easydata.engineering/how-to-write-parquet-file-in-python)
