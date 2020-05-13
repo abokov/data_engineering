@@ -12,6 +12,11 @@ Data-related artefacts - databricks, parquet and other
 
 [Handling Large Amounts of Data with Parquet – Part 1](https://miuv.blog/2018/08/21/handling-large-amounts-of-data-with-parquet-part-1/)
 
+
+[Decoding billions of integers per second through vectorization](https://arxiv.org/pdf/1209.2137v5.pdf)
+
+
+
 [Parquet docx on Apache](https://parquet.apache.org/documentation/latest/)
 
 [Structure Of Parquet File Format](https://luminousmen.com/post/big-data-file-formats)
