@@ -3,6 +3,7 @@ Data-related artefacts - databricks, parquet and other
 # Getting started
 ## Get deep into Parquet format :
 [Dremel: Interactive Analysis of Web-Scale Datasets/Google Research](https://research.google/pubs/pub36632/)
+
 [Dremel made simple with Parquet/Twitter Engineering](https://blog.twitter.com/engineering/en_us/a/2013/dremel-made-simple-with-parquet.html)
 
 
@@ -15,3 +16,8 @@ Data-related artefacts - databricks, parquet and other
 
 ## Install conda:
 [How to write to a Parquet file in Python](https://easydata.engineering/how-to-write-parquet-file-in-python)
+
+
+#Azure Data Lake 
+
+[Tutorial: Azure Data Lake Storage Gen2, Azure Databricks & Spark](https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-use-databricks-spark)
