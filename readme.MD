@@ -6,6 +6,7 @@ Data-related artefacts - databricks, parquet and other
 
 [Dremel made simple with Parquet/Twitter Engineering](https://blog.twitter.com/engineering/en_us/a/2013/dremel-made-simple-with-parquet.html)
 
+[If you have your own Columnar format,stop now and use Parquet](http://www.hpts.ws/papers/2015/lightning/Parquet-HPTS-Lightning-talk.pdf)
 
 [Handling Large Amounts of Data with Parquet – Part 1](https://miuv.blog/2018/08/21/handling-large-amounts-of-data-with-parquet-part-1/)
 
